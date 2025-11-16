@@ -1,5 +1,7 @@
   **Syslíkův úkolovník**
-  
+ 
+ Souboru todo_list.sh, je třeba udělit spouštěcí práva souboru příkazem : *chmod +x todo_list.sh*
+ 
  Popis funkcí :
 
 - Úkoly se ukládají do souboru : ~/ukolovnik/.todo_list.txt
