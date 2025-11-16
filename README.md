@@ -1,6 +1,6 @@
   **Syslíkův úkolovník**
  
- Souboru todo_list.sh, je třeba udělit spouštěcí práva souboru příkazem : *chmod +x todo_list.sh*
+ Souboru todo_list.sh, je třeba udělit spouštěcí práva souboru, příkazem : *chmod +x todo_list.sh*
  
  Popis funkcí :
 
