@@ -1,5 +1,5 @@
 #!/bin/bash
---help
+
        # Vytvoření složky, pokud neexistuje
 
 if [ ! -d "$HOME/ukolovnik" ]; 
