@@ -60,7 +60,7 @@ case "$1" in
     add)
         add_task "$2"
         ;;
-    list|"")
+    list)
         list_tasks
         ;;
     done)
@@ -78,7 +78,7 @@ case "$1" in
     history)
         show_history
         ;;
-    help|--help|-h)
+    help|--help|-h|"")
         show_help
         ;;
     *)
