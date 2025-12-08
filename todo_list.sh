@@ -78,7 +78,7 @@ case "$1" in
     history)
         show_history
         ;;
-    help|--help|-h)
+    help|--help|-h|"")
         show_help
         ;;
     *)
