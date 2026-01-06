@@ -1,4 +1,4 @@
-**Info**
+                       **Info**
 
  Úkolovník není stáleběžící script, 
  
