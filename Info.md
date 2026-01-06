@@ -6,4 +6,4 @@
  
  Vznikl jako úkol v kurzu 
  
- IT administrátor u společnosti Coderslab.cz 
+ "IT administrátor" u společnosti Coderslab.cz 
