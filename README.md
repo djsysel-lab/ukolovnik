@@ -1,6 +1,6 @@
  **Info**
 
- Úkolovník není stáleběžící script, 
+ Úkolovník není stále běžící script, 
  
  pracuje na základě samostatných příkazů. 
  
